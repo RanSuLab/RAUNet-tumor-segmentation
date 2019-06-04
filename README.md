@@ -1,6 +1,6 @@
 ### Introduction
 
-'[RA-UNet: A hybrid deep attention-aware network to extract liver and tumor in CT scans](https://arxiv.org/abs/1811.01328)' submitted to TIP on 22-May-2019
+'[RA-UNet: A hybrid deep attention-aware network to extract liver and tumor in CT scans](https://arxiv.org/abs/1811.01328)' submitted to PR on 22-May-2019
 
 by [Qiangguo Jin](https://scholar.google.com/citations?user=USoKG48AAAAJ), [Zhaopeng Meng](http://scs.tju.edu.cn/plus/view.php?aid=723), [Changming Sun](http://vision-cdc.csiro.au/changming.sun/), [Leyi Wei](http://cs.tju.edu.cn/csweb/admin_teacher/view?id=185), [Ran Su](http://www.escience.cn/people/suran/index.html). 
 
